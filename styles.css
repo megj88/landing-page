@@ -1,0 +1,43 @@
+body {
+    font-family: 'Roboto';
+}
+.header {
+   background-color: #1F2937; 
+   padding-bottom: 32px;
+    }
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: left;
+    align-self: center;
+}
+
+.header-links {
+    color: #F9FAF8;
+    display: flex;
+    justify-content: right;
+    align-self: center;
+    gap: 8px;
+
+    
+}
+
+.main {
+    background-color: #1F2937; 
+    color: #F9FAF8;
+
+}
+
+.container {
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+
+.placeholder {
+    display: flex;
+    justify-content: right;
+}
